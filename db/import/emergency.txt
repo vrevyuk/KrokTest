@@ -1,0 +1,239 @@
+
+
+Initial Patient Management ER02-ER06.
+
+1. Rapid Primary Survey.
+???) The first to be managed in multi-injured patient is:
+A. Shock
+B. Intracranial hematoma
+C. Respiratory problems
+D. Open fracture of long bones
+E. Crushed contaminated wounds
+
+Answer: 3* Respiratory problems
+
+???) Which of the following has got the priority in trauma management
+Breathing
+Airway
+Circulation
+Exposure
+Disability
+
+Answer: 2* Airway
+
+???) Patient presented to emergency department with severe blunt neck injury and hypotension, best next step is:
+Blood transfusion
+Intravenous line
+Surgical exploration
+Secure airway
+Heart circulation
+
+Answer: 4* Secure airway
+
+???) In a patient with head injury which of the following Glasgow coma scale scores carry the worst prognosis:
+A. 14
+B. 10
+C. 8
+D. 4
+E. 12
+
+Answer: 4* 4
+
+Traumatology ER06-ER19.
+
+1. Head Trauma.
+???) A 35 years old man involved in road traffic accident presented to you in deep coma, pin pointed pupils. High fever and spastic rigidity of both upper and lower limbs, this man has:
+A. Frontal lobe injury
+B. Extradural hemorrhage
+C. Subdural hemorrhage
+D. Brain stem injury
+E. Cerebellar injury
+
+Answer: 4* Brain stem injury
+
+???) In head injury all of the following are true, except:
+A. Skull X-ray is a useful method of showing the site of skull fracture
+B. CT scan is an excellent method of showing intracranial injuries and lesions
+C. Hyperventilation is an excellent method of reducing the intracranial pressure
+D. Patient with Glasgow coma scale of 14 carries a bad prognosis
+E. Extradural hematoma mat produce contralateral hemiparesis
+
+Answer: 4* Patient with Glasgow coma scale of 14 carries a bad prognosis
+
+???) Scalp hematoma which is small, very painful and tend is:
+A. Subgaleal
+B. Subcutaneous
+C. Subpericranial
+D. Intramuscular
+E. Epidural
+
+Answer: 2* Subcutaneous
+
+???) In the 30 year old patient with head injury, the first to be considered is:
+Airway, breathing, circulation
+Level of consciousness
+Pupillary reaction
+Asymmetry of movements in limbs
+Subdoral hematoma on CT scan
+
+Answer: 2* Level of consciousness
+
+2. Spine and Spinal Cord Trauma.
+???) The most commonly injured structure in blunt neck injury is:
+Cervical spine
+Left carotid artery
+Right carotid artery
+Left jugular vein
+Right jugular vein
+
+Answer: 1* Cervical spine
+
+3. Chest Trauma.
+???) Manifestations of rupture one major bronchi include all the following except:
+Uncontrolled pneumothorax
+Progressive mediastinal and subcutaneous emphysema
+Hemothorax
+Hematemeais
+All of the above
+
+Answer: 4* Hematemeais
+
+???) Which of the following approaches is currently acceptable for the management of large traumatic pneumothorax:
+Chest tube insertion alone is enough for the majority of cases
+Medical observation is enough
+Thoracoscopic surgery and pleurodesis should be used
+Thoracotomy and pleurodesis should be used
+Operation on presentation for all patients
+
+Answer: 1* Chest tube insertion alone is enough for the majority of cases
+
+???) Tracheostomy is beneficial in one of the following chest injuries:
+Rib contusion
+Flail chest
+Traumatic hemothorax
+Traumatic pneumothorax
+Sucking wound of the chest wall
+
+Answer: 2* Flail chest
+
+???) Which of the following thoracic emergencies require most urgent treatment:
+A. Closed pneumothorax
+B. Open pneumothorax
+C. Tension pneumothorax
+D. Fracture ribs
+E. Hemothorax
+
+Answer: 3* Tension pneumothorax
+
+4. Abdominal Trauma.
+???) The best investigation to identify air under diaphragm in trauma patients is:
+Supine Chest X-Ray
+Standing Chest X-Ray
+Supine Abdominal X-Ray
+Standing Abdominal X-Ray
+Abdominal US
+
+Answer: 2 * Standing Chest X-Ray
+
+???) All the following are characteristics of diagnostic peritoneal lavage in abdominal trauma except:
+Sensitivity of 30%
+Does not discriminate well between affected organs
+Its role in trauma evaluation decreased these days due to advancement in radiological techniques
+Fluid obtained should be examined for red cell amount, chemistries and gram stain
+Pelvic fractures may cause false positive results
+
+Answer: 1* Sensitivity of 30%
+
+???) All of the following data are considered positive peritoneal lavage after blunt abdominal trauma, except:
+Amylase positive in the lavage fluid
+Bile positive in the lavage fluid
+Red blood cell count 100 000/ml
+Albumin of 5g/l
+Gram stain positive for bacteria in the lavage fluid
+
+Answer: 4* Albumin of 5g/l
+
+???) One of the following is the most informative in evaluation of diaphragmatic injury:
+Supine Abdominal X-Ray
+Abdominal US
+Abdominal CT scan
+Diagnostic peritoneal lavage
+Diagnostic Laproscopy
+
+Answer: 5* Diagnostic Laproscopy
+
+???) The most commonly injured organ in a patient with seat belt sign is:
+Liver
+Spleen
+Colon
+Pancreas
+Small intestine
+
+Answer: 5* Small intestine
+
+???) Abdominal trauma secondary to one of the following is not considered iatrogenic:
+Liver biopsy
+Peritoneal dialysis
+External cardiac massage
+Road traffic accidents
+Paracentesis
+
+Answer: 4* Road traffic accidents
+
+Medical Emergencies ER30-ER39.
+
+1. Anaphylaxis.
+***) Emergency drugs in anaphylaxis include all of the following, except:
+A. Adrenaline
+B. Aminophylline
+C. Corticosteroids
+D. Oxygen
+E. Chlorphenamine
+
+Answer: E* Chlorphenamine
+
+Environmental Injuries ER44-ER48.
+
+1. Bites.
+???) Useful methods of local treatment for snake bites include alt of the following, except:
+A. Immobilization
+B. Tourniquet
+C. Incision and suction
+D. Excision
+E. Cryotherapy
+
+Answer: 3* Incision and suction
+
+???) All of the following are usually accepted in the treatment of poisonous snake bite, except:
+A. Tourniquet placed above the bite area
+B. Immobilization of involved extremity
+C. Applying ice to the wound
+D. Incision and suction at the site of bite
+E. Fasciotomy is sometimes indicated
+
+Answer: 4* Incision and suction at the site of bite
+
+
+1. Sepsis and Septic Shock.
+
+???) In septic shock all the following occur at an early stage except:
+Decreased peripheral vascular resistance
+Decreased cardiac output
+Increased metabolic demand
+Impaired oxygen uptake at tissue level
+Warm peripheries
+
+Answer: 2* Decreased cardiac output
+
+
+
+
+???) End toxic shock causes the following except:
+Systemic arterial hypertension
+Low cardiac output
+Oliguria
+Systemic hypotension
+Metabolic acidosis
+
+Answer: 1* Systemic arterial hypertension
+

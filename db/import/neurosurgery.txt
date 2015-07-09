@@ -1,0 +1,207 @@
+
+Anatomy NS02-NS04.
+
+1. Anatomy.
+???) The following arteries contribute to the formation of the circle of Willis, except:
+A. Internal carotid artery
+B. Posterior commnicating artery
+C. Posterior cerebral artery
+D. Anterior cerebral artery
+E. Posterior inferior cerebellar artery
+
+Answer: E* Posterior inferior cerebellar artery
+
+Intracranial Pressure (ICP) NS04-NS06.
+
+1. Cerebral Blood Flow (CBF).
+???) Regarding the cerebral blood flow (CBF) which of the following statements is
+true:
+Average flow is 54 ml / 100 g / min
+Inferior colliculus and sensorimotor cortex have the highest rate of CBF
+Grey matter has higher CBF than white matter
+Venous pressure, mean arterial pressure, and intracranial pressure are factors that affect the CBF
+All of the above.
+
+Answer: 5* All of the above
+
+2. ICP Measurement.
+???) General measures that are used to lower intracranial pressure include all of the following except:
+Head up 30 degrees
+Avoid Hypotension
+Avoid jugular venous outflow constriction
+Induce hyperventilation
+Intubate patients with GCS < 8 or with respiratory distress
+
+Answer: 4* Induce hyperventilation
+
+Hydrocephalus NS07-NS09.
+
+1. Hydrocephalus.
+???) Which is acceptable procedures for the treatment of hydrocephalus:
+Endoscopic third ventriculostomy
+Ventriculo peritoneal shunt
+Ventricular access device with frequent tapping
+External ventricular drain
+All of the above
+
+Answer: 5* All of the above
+
+???) One of the following is the most common cause of hydrocephalus in children:
+Spina bifida with meningornyelocele
+Post-inflammatory and post-traumatic obstruction
+Neoplasma (glyoma in the third ventricle)
+Arnold Chiari malformation
+Epilepsy
+
+Answer: 4* Arnold Chiari malformation
+
+???) Shunt infection is one of the common problems in neurosurgery, which statement is false:
+Infection occurs in nearly 5% of shunt cases
+Gram -ve micro organisms are the commonest micro organism to cause infection
+Young age, poor skin condition, and surgeon's experience are all risk factors
+CSF (obtained from shunt reservoir) culture and analysis is diagnostic in 95% of cases
+A child with shunt infection may present with only irritability and intermittent fever
+
+Answer: 2* Gram -ve micro organisms are the commonest micro organism to cause infection
+
+Idiopathic Intracranial Hypertension NS09-NS09.
+
+1. Pseudotumor Cerebri.
+***) Benign intracranial hypertension (pseudotumor cerebri) is usually associated with which of the following:
+Hemiparesis
+Papilloedema
+Increased CSF protein and sugar
+Convulsions
+Severe mental retardation
+
+Answer: 2* Papilloedema
+
+Blood NS15-NS17.
+
+1. Extradural Hematoma.
+???) In extradural hematoma all are true, except:
+A. History of head injury
+B. Lucid interval
+C. Convulsions or hemiplegia of the contralateral side
+D. Dilatation of the ipsilateral pupil
+E. The source of bleeding is one of the scalp vessels
+
+Answer: 5* The source of bleeding is one of the scalp vessels
+
+2. Subdural Hematoma.
+???) The scalp hematoma that takes the shape of the underlying skull bone and with time it may give a false impression of a depressed fracture is:
+A. Subcutaneous hematoma
+B. Subgaleal hematoma
+C. Intramuscular hematoma
+D. Sub-epicranial hematoma
+E. Extradural hematoma
+
+Answer: 4* Sub-epicranial hematoma
+
+Cerebrovascular Disease NS17-NS22.
+
+1. Subarachnoid Hemorrhage (SAH).
+???) Regarding aneurysmal subarachnoid hemorrhage (SAH) all is true except:
+Rebleeding is the major concern and killer in the initial stabilization period
+Vasospasm may occur several days after the bleeding
+Hyponatremia & vasospasm are two causes of sudden deterioration in the patient's sensorium
+Any type of arrhythmia may occur in SAH cases
+Nimodipine a drug that facilitate calcium channels passage is used to prevent vasospasm in SAH
+
+Answer: 5* Nimodipine a drug that facilitate calcium channels passage is used to prevent vasospasm in SAH
+
+***) Subarachnoid hemorrhage occurs most commonly as a result of:
+Rupture of an arteriovenous anomaly
+Rupture of a berry aneurysm
+Rupture of a mycotic aneurysm
+Trauma
+Rupture of a fusiform aneurysm
+
+Answer: 2* Rupture of a berry aneurysm
+
+Vascular Malformations NS22-NS23.
+
+1. Arteriovenous Malformations (AVM).
+???) Regarding AVM of the brain which statement is false:
+AVM are dysplastic arteries and vessels with no capillaries or intervening neural parenchyma
+Risk of hemorrhage is life long as they are congenital
+Small AVM's tend to present more often with bleeding than larger ones
+The angiogram is diagnostic radiological exam as AVM's cannot be diagnosed or visualized on MRI
+The younger patient at the time of diagnosis the higher risk of developing
+
+Answer: 4* The angiogram is diagnostic radiological exam as AVM's cannot be diagnosed or visualized on MRI
+
+Dermatome NS23-NS24.
+
+1. Myotome.
+???) Ankle jerk is controlled by:
+A. L1 - L2
+B. L2 - L3
+C. L3 - L4
+D. L5 - S1
+E. L4 - L5
+
+Answer: 4* L5 - S1
+
+Extradural Lesions NS24-NS27.
+
+1. Cervical Disc Syndrome.
+???) Which statement regarding cervical prolapsed disc (PID) it false:
+C6 C7 is the commonest site of occurrence
+In a CS C6 PID the radiculopathy involves C6 root, and the biceps reflex is diminished
+C4 C5 PID results in forearm flexion weakness
+CD- C7 Tl PID results in weakness of hand intrinsic muscles
+Left C6 radiculopathy may present with pain simulating a myocardial infarction
+
+Answer: 3* C4 C5 PID results in forearm flexion weakness
+
+2. Cauda Equina Syndrome.
+???) The spinal cord ends in adults at:
+A. The lower end of the 1st lumbar vertebra
+B. The lower end of the 12th dorsal vertebra
+C. The lower end of the 3rd lumbar vertebra
+D. The lower end of the 5th lumbar vertebra
+E. The lower end of the 3rd sacral vertebra
+
+Answer: 1* The lower end of the 1st lumbar vertebra
+
+???) The following associations are true, except:
+A. Biceps reflex C5-C6
+B. Knee jerk L3-L4
+C. Ankle jerk S3-S4
+D. Cremasteric reflex L1-L2
+E. Triceps reflex C7-C8
+
+Answer: C* Ankle jerk S3-S4
+
+Pediatric Neurosurgery NS36-NS39.
+
+1. Spinal Dysraphism.
+***) A sacral meningomyelocele commonly associated with all of the following, except:
+Spasticity of the lower limbs
+Hydrocephalus
+A neurogenic bladder
+A lax anal sphincter
+Meningitis
+
+Answer: 2* Hydrocephalus
+
+2. Intraventricular Hemorrhage (IVH).
+***) All of the following are risk factors of intraventricular hemorrhage, except:
+Prematurity
+Respiratory syndrome
+Pneumothorax
+Hypercapnia and acidosis
+Portal hypertension
+
+Answer: 5* Portal hypertension
+
+3. Craniosynostosis.
+???) Large anterior fontanel is due to all of the following, except:
+Hydrocephalus
+Achondroplasia
+Craniosynostosis
+Down syndrome
+Prematurity
+
+Answer: C* Craniosynostosis

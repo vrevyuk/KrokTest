@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+  <style>
+    body, .ui-page {
+        background-image: url('images/paper2.png') !important;
+        background-size: contain !important;
+    }
+    .fullWidth {
+      width: 100% !important;
+    }
+    .content {
+        background: black;
+        opacity: 0.7;
+        border-radius: 10px;
+        color: white;
+        text-shadow: none;
+        font-size: small;
+    }
+    table {
+        font-size: small;
+        border-collapse: collapse;
+    }
+    table tr:nth-child(even) {
+        background-color: #eee;
+    }
+    table tr:nth-child(odd) {
+        background-color: #fff;
+    }
+    table th {
+        background-color: black;
+        color: #ffffff;
+        text-shadow: none;
+    }
+    .left-line {
+        border-left: solid;
+        border-width: 1px;
+        text-align: center;
+    }
+    .circle-green-btn {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        line-height: 100px;
+        background: green;
+        font-size: x-large;
+        color: yellow;
+        text-align: center;
+        text-shadow: none;
+    }
+    .circle-red-btn {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        line-height: 100px;
+        background: red;
+        font-size: x-large;
+        color: yellow;
+        text-align: center;
+        text-shadow: none;
+    }
+    .no-answer-btn {
+        opacity: 0.7;
+        background-color: bisque !important;
+    }
+    .ui-btn-inline {
+        word-wrap: break-word !important;
+        white-space: normal !important;
+    }
+    .header {
+        background: transparent !important;
+        color: #ffffff !important;
+        text-shadow: none !important;
+        border: none !important;
+    }
+    .transparent-btn {
+        background: transparent !important;
+        border: none !important;
+        color: #ffffff !important;
+        text-shadow: none !important;
+    }
+  </style>
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+  <script src="js/main.js"></script>
+</head>
+<body>
+<div data-role="page" id="mainPage">
+    <div data-role="content">
+        <div data-role="content" class="content">
+            <span>
+                An essential revision aid for your medical exam!<br>
+                It contains of multiple choice questions related to medical studies. We are in a process of adding more and more categories and multiple choice questions.<br>
+                This app tries to make a database of medical MCQs in an easily accessible format.<br>
+                The program include 14 subjects :
+            </span>
+            <ul style="font-size: x-small">
+                <li>Urology</li>
+                <li>Plastic Surgery</li>
+                <li>Pediatrics</li>
+                <li>Orthopedics</li>
+                <li>Internal Medicine</li>
+                <li>General Surgery</li>
+                <li>Emergency Medicine</li>
+                <li>Gynecology</li>
+                <li>Obstetrics</li>
+                <li>Cardiovascular Surgery</li>
+                <li>Otolaryngology</li>
+                <li>Neurosurgery</li>
+                <li>Dermatology</li>
+                <li>Anesthesia</li>
+            </ul>
+            <span>To get activation code please contact us : sameer.nj@mail.ru</span>
+        </div>
+        <a data-role="button" class="ui-btn ui-corner-all no-answer-btn" onclick="kroktest.next()">Next</a>
+    </div>
+</div>
+
+<div data-role="page" id="emptypage">
+</div>
+
+<div data-role="page" id="enterCode">
+    <div data-role="content">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div data-role="content" class="content">
+            <p>You must have find registration code in your email after you send to me message.</p>
+            <input type="text" id="code">
+        </div>
+        <div class="ui-grid-a">
+            <div class="ui-block-a"><a data-role="button" class="ui-btn ui-corner-all no-answer-btn" onclick="kroktest.requestCode($('#code').val())">Save code</a></div>
+            <div class="ui-block-b"><a data-role="button" class="ui-btn ui-corner-all no-answer-btn" onclick="kroktest.demo()">Demo</a></div>
+        </div>
+    </div>
+</div>
+
+<div data-role="page" id="summaryPage">
+    <div data-role="content">
+        <select id="category" ></select>
+        <br>
+        <div align="center">
+            <div class="circle-green-btn" onclick="kroktest.go()">GO</div>
+        </div>
+        <br>
+        <table data-role="table" class="ui-responsive table-stroke" data-mode="">
+            <thead>
+            <tr>
+                <th>SUBJECT</th>
+                <th>HIT</th>
+                <th>FAIL</th>
+            </tr>
+            </thead>
+            <tbody id="statisticTable"></tbody>
+        </table>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <a href="#" onclick="document.location.reload(true)">Reload</a>
+    </div>
+</div>
+
+<div data-role="page" id="goPage">
+    <div data-role="header" class="header">
+        <a href="#summaryPage" class="ui-btn ui-btn-icon-left ui-icon-carat-l transparent-btn">Back</a>
+        <h2 id="goHeader"></h2>
+    </div>
+    <div data-role="content" id="testContainer">
+        <div data-role="content" class="content" id="goPageContent">
+            <span>Bla bla bla bla bla bla bla bla bla bla bla:</span>
+            <a href="#" class="ui-btn ui-mini ui-corner-all ui-shadow">bla x 2</a>
+        </div>
+        <div data-role="content" align="center" id="goPageCircleBtn">
+            <div class="circle-blue-btn">SKIP</div>
+        </div>
+    </div>
+    <a href="#" onclick="document.location.reload(true)">Reload</a>
+</div>
+
+</body>
+</html>
